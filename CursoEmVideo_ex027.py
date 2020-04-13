@@ -1,0 +1,8 @@
+nome = str(input('Digite seu nome: ')).strip()
+#espaco = nome.find(' ')
+#ult_espaco = nome.rfind(' ')
+#print('Seu primeiro nome é:', nome[:espaco])
+#print('Seu último nome é:', nome[ult_espaco:])
+n = nome.split()
+print('Seu primeiro nome é: ', n[0])
+print('Seu primeiro nome é: ', n[len(n)-1])
