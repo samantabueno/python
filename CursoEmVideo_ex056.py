@@ -1,4 +1,4 @@
-# Exercice to training repetition structure (for)
+# Exercise to training repetition structure (for)
 # In this program the user will type name, age and genre of 4 people
 # And the program will return their middle age, which man is older and how many women are under 20 years old
 

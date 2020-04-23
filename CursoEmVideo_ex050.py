@@ -1,4 +1,4 @@
-#Exercice to training repetition structure
+#Exercise to training repetition structure
 #Program to sum the even numbers of six numbers user typed
 
 sum = 0

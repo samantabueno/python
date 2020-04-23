@@ -5,7 +5,7 @@ from time import sleep
 print('='*40)
 print('Lets Play? Try to guess a number that I selected!!')
 n1 = -1
-n2 = random.randint(0, 5)
+n2 = random.randint(0, 10)
 while n1 != n2:
     n1 = int(input('Type a number: '))
     print('PROCESSANDO ...')

@@ -1,4 +1,4 @@
-#Exercice to training repetition structure and string treatment
+#Exercise to training repetition structure and string treatment
 
 statment = str(input('Type a statment: ')).strip().lower().replace(' ', '')
 palindrome = False

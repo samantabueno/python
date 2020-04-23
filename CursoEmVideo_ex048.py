@@ -1,4 +1,4 @@
-#Exercice to training repetition structure
+#Exercise to training repetition structure
 #Program to know the sum of the numbers odd and multiple of three
 
 sum = 0
