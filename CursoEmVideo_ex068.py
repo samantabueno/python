@@ -10,11 +10,7 @@ while True:
     x = random.randint(0, 10)
     t = int(input('Type a number: '))
     n = int(input('Even or Odd number?[0/1] '))
-    r = (t + x) % 2
-    if r == 0:
-        p = 0
-    else:
-        p = 1
+    p = 0 if (t + x) % 2 == 0 else 1
     if p == n:
         count += 1
         print('Computer thought: ', x)
