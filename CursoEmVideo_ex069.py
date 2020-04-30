@@ -14,7 +14,7 @@ while True:
 
     while True:
         genre = input('[F/M] :').upper()
-        if genre in ('F', 'M'):
+        if genre in 'FM':
             break
         else:
             print('Invalid Option!')
@@ -31,7 +31,7 @@ while True:
 
     while True:
         co = input('Do you wanna continue? [S/N] :').upper()
-        if co in ('S', 'N'):
+        if co in 'SN':
             break
         else:
             print('Invalid Option!')
