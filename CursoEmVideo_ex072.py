@@ -6,7 +6,7 @@ numbers = ('zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight
           'eighteen', 'nineteen', 'twenty')
 
 while True:
-    n = int(input('Type a number to know how to write them: '))
+    n = int(input('Type a number between 0 and 20 to know how to write them: '))
     if n in range(0, 21):
         break
 
