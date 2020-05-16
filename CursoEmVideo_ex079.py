@@ -1,7 +1,7 @@
 # Exercise to training lists
 # Program that includes numbers in a list
 
-numbers = []
+numbers = list()
 
 while True:
     n = int(input('Type a number: '))
@@ -17,3 +17,5 @@ while True:
         break
 
 print(sorted(numbers))
+numbers.sort()
+print(numbers)
