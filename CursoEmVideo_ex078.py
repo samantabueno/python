@@ -1,8 +1,9 @@
-list = [int(input('Type a number'))
-, int(input('Type other number'))
-, int(input('Type another number'))
-, int(input('Type another number'))
-, int(input('Type last number'))]
+# Exercise to training lists
+list = []
+
+for c in range(1, 6):
+    list.append(int(input(f'Type a number for position {c}: ')))
+
 maxi = max(list)
 mini = min(list)
 print(list)
@@ -15,4 +16,4 @@ for pos, num in enumerate(list):
 print(f'\nThe smallest number is {mini} in the position is ', end='')
 for pos, num in enumerate(list):
     if num == mini:
-        print(f'{pos+1}.. ', end='')
+        print(f'{pos+1} .. ', end='')
