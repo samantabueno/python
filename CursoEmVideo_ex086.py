@@ -9,5 +9,5 @@ for c in range(0, 3):
 
 for pos, value in enumerate(matrix):
     for a in matrix[pos]:
-        print(f'[ {a} ]', end='')
+        print(f'[ {a:^5} ]', end='')
     print()
