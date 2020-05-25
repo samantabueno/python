@@ -21,7 +21,7 @@ for c in range(0, 3):
 print('-'*30)
 for pos, value in enumerate(matrix):
     for a in matrix[pos]:
-        print(f'[ {a} ]', end='')
+        print(f'[ {a:^5} ]', end='')
     print()
 
 print(f'The sum of even numbers is: {sum_even}.')
