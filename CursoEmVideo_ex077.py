@@ -1,5 +1,5 @@
-#Exercise to training tuples
-#Program to know the vowals of words inside the tuple
+# Exercise to training tuples
+# Program that returns the vowels of some words inside the tuple
 
 words = ('Manuella', 'Samanta', 'Enir', 'Eli')
 
