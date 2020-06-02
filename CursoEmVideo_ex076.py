@@ -1,5 +1,5 @@
-#Exercise to training tuples
-#Program to create a price listing
+# Exercise to training tuples
+# Program that returns a price listing
 
 list = ('Note Book', 20, 'Pencil', 2, 'Pkg Paper', 15.5, 'Calendar', 4.5)
 
