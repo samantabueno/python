@@ -1,5 +1,6 @@
 # Exercise to training lists
-# Program to return ordered list without using sort() metod
+# Program that receives many numbers
+# And then return this numbers in a ordered list without using sort() method
 
 l = []
 

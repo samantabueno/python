@@ -1,4 +1,6 @@
 # Exercise to training lists
+# Program that receives many numbers and put in a list.
+# And then analyse if there are one specific number in this list.
 
 numbers = []
 

@@ -1,5 +1,5 @@
 # Exercise to training lists
-# Program that includes numbers in a list
+# Program that includes many numbers in a list if this number is not there yet
 
 numbers = list()
 

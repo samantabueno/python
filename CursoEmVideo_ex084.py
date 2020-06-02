@@ -1,4 +1,4 @@
-# Exercise to traing lists
+# Exercise to training list function
 # Program that you put people and yours weights and them it returns who is lightest and fattest
 
 people = []

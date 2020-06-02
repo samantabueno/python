@@ -1,4 +1,7 @@
 # Exercise to training lists
+# Program that receives six numbers
+# And then analyse which number is the biggest and which is the smallest
+
 list = []
 
 for c in range(1, 6):

@@ -1,5 +1,5 @@
-# programa q cria uma lista
-# separar em duas listas, pares e impares
+# Program that receives many numbers an then
+# returns a list with even numbers and other list with odd numbers.
 
 numbers = []
 even_numbers = []
