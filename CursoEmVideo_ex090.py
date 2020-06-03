@@ -2,8 +2,8 @@
 
 person = dict()
 person['Name'] = str(input('Name: '))
-person['Middle'] = float(input(f'Middle of {person["Name"]}: '))
-person['Status'] = 'Approved' if person['Middle'] > 6 else 'Failed'
+person['Average'] = float(input(f'Average of {person["Name"]}: '))
+person['Status'] = 'Approved' if person['Average'] > 6 else 'Failed'
 
 for key, value in person.items():
     print(f'The {key} is {value}')

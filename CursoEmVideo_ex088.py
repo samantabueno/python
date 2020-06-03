@@ -19,6 +19,5 @@ for c in range(0, q):
     sleep(1)
     lottery.append(ticket[:])
     ticket.clear()
-print(lottery
-      )
+print(lottery)
 

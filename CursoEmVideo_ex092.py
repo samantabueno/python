@@ -1,4 +1,4 @@
-# Program that receive name, borning year, work card number of a person and calculate her age
+# Program that receives name, year of birth, work card number of a person and calculate her age
 # If this person have a work card number the program receive the hiring year, the salary,
 # and calculate the hiring retirement year
 # And them put all this information in a dictionary

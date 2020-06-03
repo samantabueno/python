@@ -20,10 +20,10 @@ while True:
         break
 
 print('--'*30)
-print(f'{"Id":<3} {"Name":<20} Middle')
+print(f'{"Id":<3} {"Name":<20} Average')
 for pos, value in enumerate(repository):
-    middle = (repository[pos][1][0] + repository[pos][1][1])/2
-    print(f'{pos:<3} {repository[pos][0]:.<20} {middle}')
+    average = (repository[pos][1][0] + repository[pos][1][1])/2
+    print(f'{pos:<3} {repository[pos][0]:.<20} {average}')
 
 print('--'*30)
 while True:
