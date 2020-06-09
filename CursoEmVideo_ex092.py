@@ -9,15 +9,15 @@ import datetime as d
 current_year = int(d.datetime.now().year)
 
 person = {'Name': str(input('Name: ')),
-          'Borning Year': int(input('Borning Year: ')),
-          'Work Card': int(input('Work Card Number: (0 if you do not have)'))}
+          'Year of birth': int(input('Year of birth: ')),
+          'Work Card': int(input('Work Card Number (0 if you do not have): '))}
 
-person['Age'] = current_year - person['Borning Year']
+person['Age'] = current_year - person['Year of birth']
 
 if person['Work Card'] > 0:
     person['Hiring year'] = int(input('Hiring year: '))
     person['Salary'] = float(input('Salary: '))
-    person['Retirement'] = person['Hiring year'] + 35 - person['Borning Year']
+    person['Age of Retirement'] = person['Hiring year'] + 35 - person['Year of birth']
 
 for key, value in person.items():
     print(f'The {key} is {value}')
