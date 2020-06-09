@@ -1,4 +1,6 @@
-# Program that receives
+# Program that receives name, quantity of soccer match
+# and how many goals of many players soccer
+# And them returns like a report with all information *
 
 goals = list()
 
