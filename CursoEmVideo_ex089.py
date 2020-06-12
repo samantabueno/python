@@ -1,5 +1,5 @@
-#Exercise to training lists
-#Program that you can put the students and your grades
+# Exercise for training lists
+# Program that you can put the students and your grades
 
 grade = []
 repository = []
