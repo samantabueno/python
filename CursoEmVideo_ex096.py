@@ -1,5 +1,5 @@
 # Simple program to introduce functions
-# It receives width and height and returns ground's area *
+# It receives width and height and returns ground's area
 
 
 def area(a, b):
