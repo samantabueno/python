@@ -7,6 +7,7 @@ def card(name='<unknown>', goals=0):
     print(f'A {name} scored {goals} goals.')
 
 
+# Main program
 n = str(input('Name: '))
 g = str(input('Number of goals: '))
 
