@@ -1,5 +1,6 @@
-#Exercise to training repetition structure (while)
-#Program to sum or multiply or to know which is biggest of two numbers that user type
+# Exercise for training repetition structure (while)
+# Program that receives two numbers and one code for one action
+# And returns the action result
 
 from time import sleep
 

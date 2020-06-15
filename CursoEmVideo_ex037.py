@@ -1,4 +1,4 @@
-#Program to transform integer numbers for (1) binary numbers, (2) octal numbers or (3) hexadecimal numbers.
+# Program to transform integer numbers for (1) binary numbers, (2) octal numbers or (3) hexadecimal numbers.
 
 number = int(input('Type a number: '))
 print('Choose a option to transform: ')

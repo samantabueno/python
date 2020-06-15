@@ -1,4 +1,4 @@
-#Program to approve or to deny a real estate credit
+# Program to approve or to deny a real estate credit
 
 value_house = float(input('How much is the house? '))
 salary = float(input('How much is buyer''s salary? '))

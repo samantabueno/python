@@ -1,5 +1,6 @@
-#Exercise to training repetition structure
-#Program to sum the even numbers of six numbers user typed
+# Exercise for training repetition structure
+# Program that receives six numbers
+# And returns the sum of even numbers of that typed
 
 sum = 0
 for c in range(0, 6):

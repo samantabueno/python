@@ -1,5 +1,5 @@
-#Exercise to training repetition structure (while)
-#Program to show the middle, biggest and least number of N numbers that user typed
+# Exercise for training repetition structure (while)
+# Program to show the average, biggest and least number of N numbers that user typed
 
 cont = 'S'
 sum = count = biggest = least = 0

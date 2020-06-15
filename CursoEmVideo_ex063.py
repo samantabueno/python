@@ -1,4 +1,5 @@
-#Program to show Fibonacci sequence
+# Program that receives a number
+# and returns the Fibonacci sequence with the number of items equal to the number entered
 
 number = int(input('Type a number limit to Fibonacci Sequence: '))
 c = 3

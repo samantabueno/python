@@ -1,5 +1,5 @@
-#Exercice to training repetition structure (for and while)
-#Program to calculate factorial number
+# Exercise for training repetition structure (for and while)
+# Program to calculate factorial number
 
 from math import factorial
 

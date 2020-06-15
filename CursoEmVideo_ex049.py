@@ -1,5 +1,6 @@
-#Exercise to training repetition structure
-#Program to show you multiplication table of two numbers
+# Exercise for training repetition structure
+# Program that receives two numbers
+# And returns a multiplication table of them
 
 for a in range(0, 2):
     number = int(input('Type a number to know multiplication table: '))

@@ -1,4 +1,4 @@
-# Program to comparing two numbers
+# Program for comparing two numbers
 print('This program will help you to compare two numbers and to know each them is bigger.')
 n1 = int(input('First number: '))
 n2 = int(input('Second number: '))

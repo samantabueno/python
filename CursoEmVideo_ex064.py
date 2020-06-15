@@ -1,4 +1,4 @@
-#Program to count and sum numbers under 999
+# Program that counts and sum numbers under 999
 
 sum = count = number = 0
 
