@@ -1,0 +1,6 @@
+samanta;24
+fellipe;32
+unknown;0
+Eli;67
+Fellipe	;12
+Enir;67
